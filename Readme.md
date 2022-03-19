@@ -34,15 +34,12 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitIwale&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujit's github stats" />
-  |
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitIwale&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitIwale&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujit's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitIwale&layout=compact&theme=buefy&hide_border=true" />
 
+</p>
 
-</details>
 
 [website]: https://sujitIwale.github.io/portfolio
 [twitter]: https://twitter.com/sujitIwale
