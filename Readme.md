@@ -41,7 +41,7 @@
 </p>
 
 
-[website]: https://sujitIwale.github.io/portfolio
+[website]: https://sujitIwale.netlify.app
 [twitter]: https://twitter.com/sujitIwale
 [instagram]: https://instagram.com/sujit_iwale
 [linkedin]: https://www.linkedin.com/in/sujit-iwale-61b852154
