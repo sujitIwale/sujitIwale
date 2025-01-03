@@ -13,7 +13,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)][linkedin]
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)][instagram]
 
 ### Languages and Tools:
 
