@@ -2,8 +2,8 @@
 
 
 
--  I'm a Student and Mern Stack Developer!!
--  I’m currently learning frontend development   
+-  Hi there! I'm Sujit, a software engineer with a passion for both frontend and backend development. I enjoy building responsive web pages, scalable systems, and working on personal projects in my spare time.
+  
 
 ### Connect with me:
 
@@ -41,7 +41,6 @@
 </p>
 
 
-[website]: https://sujitIwale.netlify.app
+[website]: https://www.sujitiwale.info/
 [twitter]: https://twitter.com/sujitIwale
-[instagram]: https://instagram.com/sujit_iwale
 [linkedin]: https://www.linkedin.com/in/sujit-iwale-61b852154
